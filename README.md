@@ -37,7 +37,7 @@ To understand how agents perform, we analyzed the distribution of tasks complete
 
 The distribution of total tasks completed by agents highlights the varying levels of agent productivity:
 
-![Distribution of Total Tasks](file-U3kueCtJvn2PuRJzVzSeDN3Z)
+![Screenshot 2024-08-10 8 24 09 PM](https://github.com/user-attachments/assets/f35bdc94-febd-4ba2-9838-f62b112a3648)
 
 - **Observation:** The distribution shows that while a significant number of agents complete fewer tasks, a smaller group consistently performs at a higher level. This distribution informed the creation of tier-based incentives.
 
@@ -45,7 +45,8 @@ The distribution of total tasks completed by agents highlights the varying level
 
 We evaluated three scenarios to determine the impact of the incentive structure on average compensation per task:
 
-![Average Compensation per Task Across Scenarios](file-702VIFKeSio15VICSWdFfhQN)
+![Screenshot 2024-08-10 8 25 08 PM](https://github.com/user-attachments/assets/92d4aa40-af39-4ecc-aa3c-ae81a76994b1)
+
 
 - **Scenario 1:** Most agents fall into Tiers 1 and 2, resulting in an average compensation of 211.76 KSH per task.
 - **Scenario 2:** Majority of agents are in Tier 3, leading to an average compensation of 275.00 KSH per task.
