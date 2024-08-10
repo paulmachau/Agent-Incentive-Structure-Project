@@ -27,7 +27,9 @@ The organization faces the challenge of motivating agents to increase their task
 
 To understand how agents perform, we analyzed the distribution of tasks completed. The clustering of agents shows distinct groups based on their task completion levels:
 
-![Clustering of Agents](file-U3kueCtJvn2PuRJzVzSeDN3Z)
+![Screenshot 2024-08-10 8 23 26 PM](https://github.com/user-attachments/assets/6c59bfb7-80d6-4a91-be08-38470f298a62)
+
+
 
 - **Observation:** There is a large group of agents completing very few tasks, while a smaller group completes a significantly higher number of tasks. This clustering helps in designing targeted incentives for different performance levels.
 
