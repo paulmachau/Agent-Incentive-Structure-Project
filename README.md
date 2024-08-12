@@ -31,7 +31,7 @@ To understand how agents perform, we analyzed the distribution of tasks complete
 
 
 
-- **Observation:** There is a large group of agents completing very few tasks, while a smaller group completes a significantly higher number of tasks. This clustering helps in designing targeted incentives for different performance levels.
+- **Observation:** The graph shows the clustering of the data into three where the red shows the low performers, green moderate performers and blu the high performers 
 
 ### **Distribution of Total Tasks Completed by Agents**
 
@@ -39,8 +39,8 @@ The distribution of total tasks completed by agents highlights the varying level
 
 ![Screenshot 2024-08-10 8 24 09 PM](https://github.com/user-attachments/assets/f35bdc94-febd-4ba2-9838-f62b112a3648)
 
-- **Observation:** The distribution shows that while a significant number of agents complete fewer tasks, a smaller group consistently performs at a higher level. This distribution informed the creation of tier-based incentives.
-
+- **Observation:** The histogram shows the distribution that the agents have a significant divide between low and high performers, with few tasks performed in the middle range
+- 
 ### **Average Compensation Across Scenarios**
 
 We evaluated three scenarios to determine the impact of the incentive structure on average compensation per task:
@@ -48,9 +48,9 @@ We evaluated three scenarios to determine the impact of the incentive structure 
 ![Screenshot 2024-08-10 8 25 08 PM](https://github.com/user-attachments/assets/92d4aa40-af39-4ecc-aa3c-ae81a76994b1)
 
 
-- **Scenario 1:** Most agents fall into Tiers 1 and 2, resulting in an average compensation of 211.76 KSH per task.
-- **Scenario 2:** Majority of agents are in Tier 3, leading to an average compensation of 275.00 KSH per task.
-- **Scenario 3:** A small percentage of agents reach Tier 4, pushing the average compensation to 300.00 KSH per task.
+- **Scenario 1:** Few agents fall into Tiers 1 and 2, resulting in an average compensation of 211.76 KSH per task.
+- **Scenario 2:** Significant number of agents are in Tier 3, leading to an average compensation of 275.00 KSH per task.
+- **Scenario 3:** A large percentage of agents reach Tier 4, pushing the average compensation to 300.00 KSH per task.
 
 ## **Conclusion**
 
@@ -62,7 +62,3 @@ The designed incentive structure successfully balances the need to motivate agen
 2. **Clear Communication:** Ensure the incentive structure is clearly communicated to agents, so they understand how to maximize their earnings and what is expected of them.
 3. **Flexible Adjustments:** Be prepared to adjust the tier thresholds or compensation amounts in response to changes in agent behavior, task demand, or budgetary constraints.
 4. **Data-Driven Decisions:** Use historical and real-time data to inform any changes to the incentive structure, ensuring decisions are evidence-based.
-
----
-
-This README document provides a clear and comprehensive overview of the project, including visual aids to support the analysis and conclusions. The recommendations are actionable steps to ensure the ongoing success of the incentive structure.
